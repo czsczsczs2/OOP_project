@@ -8,3 +8,19 @@
 
 # 開啟遊戲
 ![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/interface.png)
+
+
+# 選角畫面
+![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/md_images/select.jpg)
+
+
+# 放置陷阱
+![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/md_images/trap.jpg)
+
+
+# 遊戲中
+![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/md_images/gaming.jpg)
+
+
+# 結束畫面
+![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/md_images/victory.jpg)
