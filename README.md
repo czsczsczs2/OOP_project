@@ -24,3 +24,6 @@
 
 # 結束畫面
 ![GITHUB](https://github.com/czsczsczs2/oop_project/blob/master/OOP_Photo/md_images/victory.jpg)
+
+**DEMO影片**
+https://youtu.be/wR0NvpHaOCs
